@@ -1,5 +1,7 @@
 == README
 
+{<img src="https://badges.gitter.im/Twinbird24/simplecodecasts_saas.svg" alt="Join the chat at https://gitter.im/Twinbird24/simplecodecasts_saas">}[https://gitter.im/Twinbird24/simplecodecasts_saas?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge]
+
 Udemy Project
 subscription-based web application
 
